@@ -1,0 +1,2 @@
+C:\Users\ILIY_K\Desktop\Новая папка (2)\Bat\Shoot\obj\Debug\Assembly-CSharp.csprojAssemblyReference.cache
+C:\Users\ILIY_K\Desktop\Новая папка (2)\Bat\Shoot\obj\Debug\Assembly-CSharp.csproj.CoreCompileInputs.cache
